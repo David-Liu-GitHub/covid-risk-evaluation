@@ -1,0 +1,3 @@
+1. Please put both model1.py, model2.py, COVID-19BehaviorData_CAN_USA.csv and COVID_Data_Cleaned_v1.csv in the same folder
+2. model1.py contains the data cleaning and model 1
+3. model2.py contains model 2
